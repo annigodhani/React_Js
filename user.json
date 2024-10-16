@@ -1,0 +1,67 @@
+{
+  "User": [
+    {
+      "id": "f4d0",
+      "firstname": "Ani",
+      "lastname": "Godhani",
+      "age": "23",
+      "profession": "Devloper",
+      "number": "7046107605",
+      "image": null
+    },
+    {
+      "id": "6dbb",
+      "firstname": "Ekta",
+      "lastname": "Vasoya",
+      "age": "22",
+      "profession": "Devloper",
+      "number": "1234567890",
+      "image": null
+    },
+    {
+      "id": "3699",
+      "firstname": "Kartik",
+      "lastname": "Gangani",
+      "age": "25",
+      "profession": "Devloper",
+      "number": "1234587698",
+      "image": null
+    },
+    {
+      "id": "3032",
+      "firstname": "Gopal",
+      "lastname": "Monapara",
+      "age": "26",
+      "profession": "Devloper",
+      "number": "343244234",
+      "image": null
+    },
+    {
+      "id": "c8e3",
+      "firstname": "Nidhi",
+      "lastname": "Mangukiya",
+      "age": "19",
+      "profession": "Devloper",
+      "number": "1234567899",
+      "image": null
+    },
+    {
+      "id": "d884",
+      "firstname": "Vijay ",
+      "lastname": "Koladiya",
+      "age": "27",
+      "profession": "Trading",
+      "number": "1234567890",
+      "image": null
+    },
+    {
+      "id": "4eb4",
+      "firstname": "Jigs",
+      "lastname": "Paramar",
+      "age": "25",
+      "profession": "Trading",
+      "number": "1234567890",
+      "image": null
+    }
+  ]
+}
